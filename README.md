@@ -31,10 +31,12 @@ This included handling missing values, correcting data types, and other necessar
 ### Statistical Analysis
 - **Central Tendency**: Measures of central tendency, such as mean, median, and mode, were calculated to summarize key aspects of the data.
 - **Statistical Distributions**: Various distributions were analyzed to understand the spread and variability of the data.
-- **Visualizations**: Visual representations such as histograms, box plots, and bar charts were created to illustrate the data distributions.
+- **Visualizations**: Visual representations such as bar charts were created to illustrate the data distributions as follows:
+
+  ![Excel- Tools](images/Pizza.jpg)
 
 ### Hypothesis Testing 
--**Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
+- **Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
 - **Statistical Tests**: Appropriate statistical tests were conducted to evaluate the hypotheses.
 - **Results**: Based on the test results, decisions were made to either reject or fail to reject the null hypothesis.
   
