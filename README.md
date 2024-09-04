@@ -39,7 +39,7 @@ This included handling missing values, correcting data types, and other necessar
 
   ![Excel-Tools](images/2.png)
 
-  ![Excel-Tools](https://images/Measures%20of%20Central%20Tendency.png)
+  ![Excel-Tools](images/3.png)
 
 ### Hypothesis Testing 
 - **Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
