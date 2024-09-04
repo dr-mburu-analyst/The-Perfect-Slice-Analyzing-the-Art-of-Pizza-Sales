@@ -1,22 +1,41 @@
-# Excel-Tools
-Repository for excel templates, VBA Macros, and data analysis tools.
+# PIZZA SALES DATA ANALYSIS
 
-Welcome to my Excel projects repository!
+## Project Overview
 
-### Table of Contents
-#### Introduction
-#### Goals
-#### Skills
+This project focuses on analyzing pizza sales data using data analytics and statistical methods. 
+The goal is to uncover trends and insights within the dataset through careful exploration, data cleanup, statistical analysis, and hypothesis testing. 
+The final analysis is presented in a structured and visual format to effectively communicate the findings.
 
-#### Introduction
-- This repository serves as a collection of my Excel projects, showcasing my skills in data analysis, visualization, and automation using Excel.
+### Introduction
+This project involves the analysis of pizza sales data, aiming to explore the data, perform necessary cleaning, and apply statistical techniques
+to derive meaningful insights. The project culminates in a comprehensive presentation that tells the story of the data through visualizations and statistical findings.
 
-#### Goals
-My primary goals for this repository include exploring various Excel features and functionalities for data analysis and visualization,and advanced statistical analysis
-strengthening my proficiency in creating automated workflows and templates, and eventually
-developing comprehensive solutions that demonstrate my Excel skills in business analytics and reporting.
+### DataSet
+The dataset used in this project is titled “Pizza Sales.” It includes various fields related to pizza sales, such as order details, sales figures, and customer demographics.
+The data is available in CSV format.
 
-#### Skills
-- Data analysis and visualization using pivot tables, charts, and advanced formulas.
-- Automation and macros to streamline workflows and increase productivity.
-- Business analytics and reporting to derive insights from data.
+- **Data Viewing**: The data was initially explored using Excel to understand its structure and content.
+- **Data Dictionary Review**: A thorough review of the data dictionary was conducted to understand the meaning of each field.
+- **Impressions**: Initial impressions of the data included observations about the types of data available and potential areas for analysis.
+
+### Data Cleanup
+While the dataset is well-structured, additional data cleanup was performed to ensure accuracy and consistency.
+This included handling missing values, correcting data types, and other necessary preprocessing steps.
+
+### Statistical Analysis
+- **Central Tendency**: Measures of central tendency, such as mean, median, and mode, were calculated to summarize key aspects of the data.
+- **Statistical Distributions**: Various distributions were analyzed to understand the spread and variability of the data.
+- **Visualizations**: Visual representations such as histograms, box plots, and bar charts were created to illustrate the data distributions.
+
+### Hypothesis Testing 
+-**Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
+- **Statistical Tests**: Appropriate statistical tests were conducted to evaluate the hypotheses.
+- **Results**: Based on the test results, decisions were made to either reject or fail to reject the null hypothesis.
+  
+### Results and Presentation
+The overall analysis was compiled into a presentation, utilizing slides and visualizations. 
+The findings were presented in a story format, detailing the decisions made during the analysis and the implications of the results.
+
+### Conclusion
+The project concludes with a summary of the key insights derived from the analysis. These insights could be used to inform business decisions related to pizza sales.
+
