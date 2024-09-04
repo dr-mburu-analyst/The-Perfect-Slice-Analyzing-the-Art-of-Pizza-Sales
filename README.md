@@ -35,7 +35,7 @@ This included handling missing values, correcting data types, and other necessar
 
   ![Excel-Tools](images/Measures%20of%20Central%20Tendency.png)
 
-  ![Excel-Tools](https://images/Measures%20of%20Central%20Tendency.png)
+  ![Excel-Tools](images/1.png)
 
   ![Excel-Tools](https://images/Measures%20of%20Central%20Tendency.png)
 
