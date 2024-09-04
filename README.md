@@ -41,6 +41,9 @@ This included handling missing values, correcting data types, and other necessar
 
   ![Excel-Tools](images/3.png)
 
+  ![Excel-Tools](images/4.png)
+
+
 ### Hypothesis Testing 
 - **Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
 - **Statistical Tests**: Appropriate statistical tests were conducted to evaluate the hypotheses.
