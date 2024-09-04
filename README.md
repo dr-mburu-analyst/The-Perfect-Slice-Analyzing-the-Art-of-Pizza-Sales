@@ -41,7 +41,6 @@ This included handling missing values, correcting data types, and other necessar
 
   ![Excel-Tools](images/3.png)
 
-  ![Excel-Tools](images/4.png)
 
 
 ### Hypothesis Testing 
