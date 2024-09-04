@@ -1,6 +1,6 @@
 # PIZZA SALES DATA ANALYSIS
 
-![PDF Preview](https://github.com/dr-mburu-analyst/Excel-Tools/blob/main/images/Pizza%20Sales%20Data%20Analysis)
+![PDF Preview](https://github.com/dr-mburu-analyst/Excel-Tools/blob/main/Pizza%20Sales%20Data%20Analysis.pdf)
 
 ## Project Overview
 
