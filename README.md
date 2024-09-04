@@ -39,11 +39,11 @@ This included handling missing values, correcting data types, and other necessar
   - **Peak Sales Hour**: The highest sales count at 12 PM highlights that this time represents a key period of customer activity, likely coinciding with lunchtime.
   - This makes it a critical time for maximizing sales opportunities.
  
-   **Recommendations**
-**Lunchtime Promotions**: To capitalize on the high sales count at 12 PM, consider implementing lunchtime promotions or special deals.
+  **Recommendations**
+  
+  - **Lunchtime Promotions**: To capitalize on the high sales count at 12 PM, consider implementing lunchtime promotions or special deals.
   This could include discounts on combo meals, loyalty rewards, or limited-time offers specifically targeted for the noon hour.
-
-**Optimize Staffing and Operations**: Given the peak in sales at 12 PM, ensure that staffing levels and operations are optimized to handle the increased customer demand efficiently. 
+  - **Optimize Staffing and Operations**: Given the peak in sales at 12 PM, ensure that staffing levels and operations are optimized to handle the increased customer demand efficiently. 
 This includes having enough staff to manage orders and ensuring quick service to enhance customer satisfaction during the busiest hour
 
   ![Excel-Tools](images/1.png)
