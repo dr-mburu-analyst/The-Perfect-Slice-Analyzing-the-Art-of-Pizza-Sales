@@ -1,6 +1,6 @@
 # PIZZA SALES DATA ANALYSIS
 
-![Excel- Tools](images/Pizza.jpg)
+![Excel-Tools](images/Pizza.jpg)
 
  You can view the full report here
  
@@ -33,13 +33,13 @@ This included handling missing values, correcting data types, and other necessar
 - **Statistical Distributions**: Various distributions were analyzed to understand the spread and variability of the data.
 - **Visualizations**: Visual representations such as bar charts were created to illustrate the data distributions as follows:
 
-  ![Excel- Tools](https://images/Measures%20of%20Central%20Tendency.png)
+  ![Excel-Tools](images/Measures%20of%20Central%20Tendency.png)
 
-  ![Excel- Tools](https://images/Measures%20of%20Central%20Tendency.png)
+  ![Excel-Tools](https://images/Measures%20of%20Central%20Tendency.png)
 
-  ![Excel- Tools](https://images/Measures%20of%20Central%20Tendency.png)
+  ![Excel-Tools](https://images/Measures%20of%20Central%20Tendency.png)
 
-  ![Excel- Tools](https://images/Measures%20of%20Central%20Tendency.png)
+  ![Excel-Tools](https://images/Measures%20of%20Central%20Tendency.png)
 
 ### Hypothesis Testing 
 - **Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
