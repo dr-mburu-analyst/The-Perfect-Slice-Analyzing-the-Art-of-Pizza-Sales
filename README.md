@@ -1,5 +1,5 @@
 # PIZZA SALES DATA ANALYSIS
-
+![Pima_Indians_Diabetes](images/Pima%20indian.png)
 ## Project Overview
 
 This project focuses on analyzing pizza sales data using data analytics and statistical methods. 
