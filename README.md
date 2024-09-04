@@ -1,5 +1,7 @@
 # PIZZA SALES DATA ANALYSIS
 
+ You can view the full report here
+ 
 ![PDF Preview](https://github.com/dr-mburu-analyst/Excel-Tools/blob/main/Pizza%20Sales%20Data%20Analysis.pdf)
 
 ## Project Overview
