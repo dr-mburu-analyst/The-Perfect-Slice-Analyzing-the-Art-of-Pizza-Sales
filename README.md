@@ -35,6 +35,8 @@ This included handling missing values, correcting data types, and other necessar
 
   ![Excel-Tools](images/Measures%20of%20Central%20Tendency.png)
 
+   ![Excel-Tools](images/3.png)
+
   **Insights**
   - **Peak Sales Hour**: The highest sales count at 12 PM highlights that this time represents a key period of customer activity, likely coinciding with lunchtime.
   - This makes it a critical time for maximizing sales opportunities.
@@ -50,9 +52,17 @@ This includes having enough staff to manage orders and ensuring quick service to
 
   ![Excel-Tools](images/2.png)
 
-  ![Excel-Tools](images/3.png)
-
-
+     **Insights**
+  - **Highest Sales Count in July**: The highest number of sales in July indicates a strong demand for pizza during the summer, which might be influenced by
+    various factors like school vacations, holidays, or outdoor gatherings.
+  - **Lowest Sales Count in October**: The drop in sales count in October suggests that this month experiences the least demand, potentially due to factors
+    like the start of the school year, changing weather, or other seasonal shifts.
+ 
+     **Recommendations**
+  - **Maximize July Sales**: Since July has the highest sales count, consider ramping up marketing efforts, offering special deals, and organizing events to
+    take full advantage of the high demand during this month.
+  - **Boost October Sales**: To counter the lower sales count in October, you might introduce targeted promotions, such as fall-themed deals or discounts.
+    Engaging customers with limited-time offers or themed products could help increase sales during this quieter period
 
 ### Hypothesis Testing 
 - **Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
