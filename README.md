@@ -78,7 +78,10 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/Query%202.png)
 
 ![Excel-Tools](images/Quest%203.png)
- ![Excel-Tools](images/Quest%203.png)
+![Excel-Tools](images/Quer%203.png)
+
+![Excel-Tools](images/Quer%203.png)
+![Excel-Tools](images/Quer%203.png)
 ### Results and Presentation
 The overall analysis was compiled into a presentation, utilizing slides and visualizations. 
 The findings were presented in a story format, detailing the decisions made during the analysis and the implications of the results.
