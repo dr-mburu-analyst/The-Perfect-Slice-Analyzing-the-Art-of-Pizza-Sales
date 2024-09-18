@@ -70,8 +70,8 @@ This includes having enough staff to manage orders and ensuring quick service to
 - **Results**: Based on the test results, decisions were made to either reject or fail to reject the null hypothesis.
 
 ### Further Analyis using SQL
+**Question 1: What is the total number of orders placed?**
 
-** Question 1: What is the total number of orders placed?**
 ![Excel-Tools](images/Question%201.png)
 ![Excel-Tools](images/Query%201.png)
 
