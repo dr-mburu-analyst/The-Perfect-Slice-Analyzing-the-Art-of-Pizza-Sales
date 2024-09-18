@@ -107,7 +107,8 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/Quest%2012.png)
 ![Excel-Tools](images/Query%2012.png)
 
-![Excel-Tools](images/Quest%2013.png) ![Excel-Tools](images/Quer%2013.png)
+![Excel-Tools](images/Quest%2013.png) 
+![Excel-Tools](images/Quer%2013.png)
 
 ### Results and Presentation
 The overall analysis was compiled into a presentation, utilizing slides and visualizations. 
