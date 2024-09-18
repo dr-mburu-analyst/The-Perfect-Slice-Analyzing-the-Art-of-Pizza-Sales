@@ -86,17 +86,28 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/Quest%203.png)
 ![Excel-Tools](images/Quer%203.png)
 
+
+**Question 4: Which is the most commonly ordered pizza?**
+
 ![Excel-Tools](images/qUEST%204.png)
 ![Excel-Tools](images/query%204.png)
+
+**Question 5: What are the top 5 most ordered pizzas and how many of each were ordered?**
 
 ![Excel-Tools](images/QST%205.png)
 ![Excel-Tools](images/query%205.png)
 
+**Question 6: What is the total quantity of each pizza category ordered?**
+
 ![Excel-Tools](images/QST%206.png)
 ![Excel-Tools](images/QUE6.png)
 
+**Question 7: What is the distribution of order volume by hour, and which hour has the highest number of orders?**
+
 ![Excel-Tools](images/Quest%207.png)
 ![Excel-Tools](images/Quer7.png)
+
+**Question 8: What is the distribution of pizza categories?**
 
 ![Excel-Tools](images/Quest%208.png)
 ![Excel-Tools](images/Query%208.png)
