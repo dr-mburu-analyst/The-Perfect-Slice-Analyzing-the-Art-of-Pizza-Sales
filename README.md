@@ -86,7 +86,7 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/QST%205.png)
 ![Excel-Tools](images/query%205.png)
 
-![Excel-Tools](images/QST%205.png)
+![Excel-Tools](images/QST%206.png)
 ![Excel-Tools](images/query%205.png)
 
 
