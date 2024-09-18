@@ -68,6 +68,11 @@ This includes having enough staff to manage orders and ensuring quick service to
 - **Hypotheses**: A null hypothesis and an alternate hypothesis were formulated regarding pizza sales trends.
 - **Statistical Tests**: Appropriate statistical tests were conducted to evaluate the hypotheses.
 - **Results**: Based on the test results, decisions were made to either reject or fail to reject the null hypothesis.
+
+### Further Analyis using SQL
+
+![Excel-Tools](images/1.png)
+
   
 ### Results and Presentation
 The overall analysis was compiled into a presentation, utilizing slides and visualizations. 
