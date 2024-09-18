@@ -70,13 +70,18 @@ This includes having enough staff to manage orders and ensuring quick service to
 - **Results**: Based on the test results, decisions were made to either reject or fail to reject the null hypothesis.
 
 ### Further Analyis using SQL
+
 **Question 1: What is the total number of orders placed?**
 
 ![Excel-Tools](images/Question%201.png)
 ![Excel-Tools](images/Query%201.png)
 
+**Question 2: What is the total revenue generated from pizza sales?**
+
 ![Excel-Tools](images/Quest%202.png)
 ![Excel-Tools](images/Query%202.png)
+
+**Question 3: Which pizza is priced the highest?**
 
 ![Excel-Tools](images/Quest%203.png)
 ![Excel-Tools](images/Quer%203.png)
