@@ -74,7 +74,8 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/Question%201.png)
 ![Excel-Tools](images/Query%201.png)
 
-![Excel-Tools](images/Query%201.png)
+![Excel-Tools](images/Quest%202.png)
+![Excel-Tools](images/Quest%202.png)
 
 
   
