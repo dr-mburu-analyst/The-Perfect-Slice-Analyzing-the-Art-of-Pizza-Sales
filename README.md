@@ -72,7 +72,9 @@ This includes having enough staff to manage orders and ensuring quick service to
 ### Further Analyis using SQL
 
 ![Excel-Tools](images/Question%201.png)
-![Excel-Tools](images/Question%201.png)
+![Excel-Tools](images/Query%201.png)
+
+![Excel-Tools](images/Query%201.png)
 
 
   
