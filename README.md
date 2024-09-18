@@ -112,17 +112,27 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/Quest%208.png)
 ![Excel-Tools](images/Query%208.png)
 
+**Question 9: What are the top three most ordered piza type based on revenue?**
+
 ![Excel-Tools](images/Quest%209.png)
 ![Excel-Tools](images/Query%209.png)
+
+**Question 10: What is the percentatge contribution of each pizza type to the total revenue?**
 
 ![Excel-Tools](images/Quest%2010.png)
 ![Excel-Tools](images/Query%2010.png)
 
+**Question 11: What is the cumulative revenue generated overtime by pizza sales?**
+
 ![Excel-Tools](images/Quest%2011.png)
 ![Excel-Tools](images/Query%2011.png)
 
+**Question 12: Determine the top 3 most ordered pizza rtype based on revenue for each pizza category**
+
 ![Excel-Tools](images/Quest%2012.png)
 ![Excel-Tools](images/Query%2012.png)
+
+**Question 13: Determine the Month with the Most Pizza Sales**
 
 ![Excel-Tools](images/Quest%2013.png) 
 ![Excel-Tools](images/Quer%2013.png)
