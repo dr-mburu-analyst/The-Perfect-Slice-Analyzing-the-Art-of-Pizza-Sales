@@ -90,7 +90,10 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/QUE6.png)
 
 ![Excel-Tools](images/Quest%207.png)
-![Excel-Tools](images/QUE6.png)
+![Excel-Tools](images/Quer7.png)
+
+![Excel-Tools](images/Quest%207.png)
+![Excel-Tools](images/Quer7.png)
 
 
 ### Results and Presentation
