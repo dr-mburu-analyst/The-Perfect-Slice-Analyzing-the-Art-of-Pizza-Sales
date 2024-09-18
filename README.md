@@ -96,10 +96,10 @@ This includes having enough staff to manage orders and ensuring quick service to
 ![Excel-Tools](images/Query%208.png)
 
 ![Excel-Tools](images/Quest%209.png)
-![Excel-Tools]()
+![Excel-Tools](images/Query%209.png)
 
-![Excel-Tools](https://github.com/dr-mburu-analyst/The-Perfect-Slice-Analyzing-the-Art-of-Pizza-Sales/blob/main/images/Quest%2010.png)
-![Excel-Tools](images/Query%208.png)
+![Excel-Tools](images/Quest%2010.png)
+![Excel-Tools]()
 
 
 ### Results and Presentation
